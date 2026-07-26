@@ -339,7 +339,7 @@
             if (pwd === null) return;
             
             // 【关键】：校验密码时优先使用云端配置，如果没有则使用初始密码 admin888
-            const currentValidPwd = cloudConfig.adminPwd || "admin888";
+            const currentValidPwd = cloudConfig.adminPwd || "Swq19840619";
             
             if (pwd === currentValidPwd) { 
                 localStorage.setItem('nav_admin_auth', 'true'); alert(t('pwdSuccess')); checkAdminSession(); 
