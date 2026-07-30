@@ -7,6 +7,8 @@
 
 一款极简、高颜值的多功能网址导航网站。现已重构升级为 **Serverless 全栈架构**！采用 HTML + Tailwind CSS + 原生 JS 构建精美前端，结合 Cloudflare Pages Functions 与 KV 数据库提供云端 API 支持。
 
+# **详细视频教程：** [点击查看](https://youtu.be/o-D9J6euddY)
+
 # 样本：https://smart-nav-main-test.pages.dev/
 
 ## ✨ 核心亮点
